@@ -25,5 +25,18 @@
    } 
    #head-title{
      text-align:center;
-     padding-top:50px;
+     padding-top:10px;
    }
+   .categories{
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-top: 20px;
+ 
+  }
+  .pic1-onclick, .pic2-onclick, .pic3-onclick{
+    display: none;
+  }
+ .design-pic, .development-pic, .product-pic{
+    cursor: pointer;
+ }
