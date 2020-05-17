@@ -5,4 +5,10 @@
     color:white;
     text-align: center;
     height:100vh;
- } 
+ }
+  #logo{
+    padding-top: 190px;
+  }
+  #mouse{
+      margin-top: 150px;
+  }
