@@ -61,3 +61,34 @@
 body{
   overflow-x: hidden;
 }
+#contact{
+  background-image: url(../images/background/c_image.jpg);
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  margin-top: 50px;
+  color:white;
+  padding-top:40px 
+}
+input, textarea, button{
+  margin-bottom: 10px;
+  padding: 7px 5px;
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+::placeholder{
+  color:white;
+}
+.btn button{
+  padding: 7px 10px;
+  width: 150px;
+  transition: border 0.2s;
+  font-size: 1.2rem;
+}
+input{
+  width:400px;
+}
+.contact-us{
+  padding-top: 20px;
+}
