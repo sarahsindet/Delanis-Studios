@@ -1,0 +1,8 @@
+#starta{
+    background-image:url("../images/background/h_img.jpg");
+    background-size: cover;
+    background-position: center;
+    color:white;
+    text-align: center;
+    height:100vh;
+ } 
