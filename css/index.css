@@ -15,4 +15,11 @@
   .me{text-align: center;
       padding-top:50px;
     }
-    
+    #service{
+      background-image:url("../images/background/s_image.jpg");
+      background-size: cover;
+      height: 50vh;
+      text-align: center;
+      color:white;
+      padding-top:80px;  
+   } 
