@@ -115,10 +115,14 @@ ul>li{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
+
 }
 #img:hover .image {
   opacity: 0.6;
 }
 #img:hover .flicker{
   opacity: 1;
+}
+.works2{ 
+  padding-top:20px;
 }
