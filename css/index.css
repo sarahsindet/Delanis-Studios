@@ -92,3 +92,17 @@ input{
 .contact-us{
   padding-top: 20px;
 }
+#footer{
+  text-align: center;
+  margin-top: 50px;
+}
+
+ul>li{
+  display: inline-block;
+  text-align: center;
+}
+.footer-label p{
+  padding-top:10px;
+  font-size: 0.7em;
+
+}
