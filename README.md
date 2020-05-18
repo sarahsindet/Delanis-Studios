@@ -13,8 +13,6 @@ A reflect of an already made project just familiarising on jquery ,trying to com
 * pull the repository link to your local host
 * To open the live site click on the gh-page link in description.
 
-## Known Bugs 
-fixing on how to cal the exact name since we have different months with different number of days
 
 ## Technologies Used
  <!-- To develop this webpage i used vs-code as my text editor.The site is built on HTML, CSS, Javascript and Bootstrap. -->
